@@ -1,0 +1,150 @@
+body{
+    margin: 0px;
+    text-align: center ;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    line-height: 2;
+
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    width: 4%;
+    border-bottom: none;
+    margin: 80px auto;
+}
+
+h1{
+    color: #66BFBF;
+    line-height: 1;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    /* font-weight: normal; */
+    color: #66BFBF;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color: #288b8f;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+
+
+
+
+
+.top_container{
+    background-color: #e4f9f5;
+    position:relative;
+    padding-top: 100px;
+    
+}
+
+.middle-container{
+    margin: 50px 0 0;
+
+}
+
+.bottom-container{
+    padding: 50px 0 20px ;
+    background-color: #66bfbf;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.badminton-img{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+.coding-img{
+    width: 20%;
+    margin-right: 50px;
+    float: left;
+    /* margin-bottom: 50px; */
+}
+#profile-img{
+    width: 20%;
+}
+
+.intro{
+    width: 75%;
+    margin: auto;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+
+}
+
+.profile{
+    width: 50%;
+    margin: 100px auto;    
+}
+
+
+.my-skills{
+    padding-top: 80px;
+}
+
+
+.btn {
+    background: #11cdd4;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+  background: #30e3cb;
+  text-decoration: none;
+}
+
+
+
+
+
+
+#copyright{
+    color: #eaf6f6;
+    padding: 20px 0;
+    font-size: 0.75rem;
+}
+
+#xyz{
+    margin-bottom: 100px;
+}
